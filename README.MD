@@ -6,7 +6,7 @@
 
 Projeto construído utilizando python, para baixar vídeos ou playlists diretamente do youtube em alta qualidade facilmente. É necessario ter o python instalado em seu computador e todas as bibliotecas da versão desejada (Normal ou Lite).
 
-[Clique aqui para acessar](https://nlw-rocketseat.netlify.app)
+[Clique aqui para acessar](https://github.com/brunorodriguescabral/YT_Downloader)
 
 ## 📩 Contatos
 
@@ -31,5 +31,3 @@ Projeto construído utilizando python, para baixar vídeos ou playlists diretame
 
 - Time
 - Pytube (pip install pytube)
-- Colorama (pip install colorama)
-- Tqdm (pip install tqdm)
